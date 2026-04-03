@@ -1,8 +1,18 @@
-# Volis Case Study - Machine Learning
+# Machine Learning Case Study: Clustering Higher Education Institutions
 
-This project presents an exploratory data analysis (EDA) and clustering study of higher education institutions using the **Volis dataset**.
+# Summary
 
-The goal is to identify structural patterns across institutions and explore how institutional characteristics relate to academic outcomes such as graduation rates.
+Clustering analysis of higher education institutions using machine learning techniques.
+
+Applied exploratory data analysis (EDA), preprocessing, and K-Means clustering to identify structural patterns in academic and financial data.
+
+Key insight: academic profile variables showed stronger association with outcomes than financial factors.
+
+This project applies unsupervised machine learning to cluster institutions and understand how their characteristics relate to academic outcomes such as graduation rates.
+
+---
+
+# Context
 
 This project was developed as part of the course:
 
@@ -165,12 +175,10 @@ The figure below shows the PCA projection of the institutional clusters identifi
 
 ![Cluster Visualization](clusters_pca.png)
 
-# Technologies Used
+## Technologies
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- NumPy
+- Matplotlib / Seaborn
