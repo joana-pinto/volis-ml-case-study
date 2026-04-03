@@ -21,6 +21,16 @@ By combining exploratory data analysis with unsupervised machine learning, the p
 
 ---
 
+# Project Objectives
+
+The main objectives of the analysis were:
+
+- Explore structural characteristics of higher education institutions
+- Identify meaningful institutional segments using clustering techniques
+- Investigate how institutional profiles relate to academic success
+
+---
+
 # Dataset
 
 The dataset (`volis_dataset.csv`) contains institutional information for a set of higher education institutions, including variables related to:
@@ -49,15 +59,6 @@ The dataset (`volis_dataset.csv`) contains institutional information for a set o
 | vl_expenditure_per_student | Institutional expenditure per student |
 | pc_graduation_rate | Graduation rate |
 
----
-
-# Project Objectives
-
-The main objectives of the analysis were:
-
-- Explore structural characteristics of higher education institutions
-- Identify meaningful institutional segments using clustering techniques
-- Investigate how institutional profiles relate to academic success
 
 ---
 
